@@ -76,6 +76,9 @@ Apaixonado por tecnologia e movido pela curiosidade, meu objetivo é trazer inov
 
 
 ## Ultimos Projetos
+
+- [Projeto IA - Análise de doença pulmonar] (https://colab.research.google.com/drive/1sU2RRxLFkgye-U4i3cJ1ZBflTUw1avHm?usp=sharing)
+- [TCC- FIAP - IA Radiologia com Interligencia Artificial - 2023 ](https://github.com/Kazetto/TCC-FIAP-SI-2023)
 - [Projeto da Escola SAGA](https://youtu.be/zNo_1r6Rj9M)
 <!--
 **Kazetto/kazetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
